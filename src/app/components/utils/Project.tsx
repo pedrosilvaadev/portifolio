@@ -58,7 +58,7 @@ const Project = ({ project }: Props) => {
           src={project.image[0].url}
           width={500}
           height={280}
-          className="object-cover mt-4 rounded-xl w-[500px] h-[280px]"
+          className="object-cover mt-4 rounded-xl w-[250px] h-[140px] sm:w-[500px] sm:h-[280px]"
         />
       </div>
     </AnimationContainer>
