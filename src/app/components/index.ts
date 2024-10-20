@@ -19,7 +19,6 @@ import { Skeleton } from "./ui/Skeleton";
 import Loader from "./ui/Loader";
 
 import { Heading, Tags } from "lucide-react";
-import CodeBlock from "./ui/CodeBlock";
 import GradientBackground from "./utils/GradientBackground";
 import HomeSection from "./sections/HomeSection";
 
@@ -44,6 +43,5 @@ export {
   Heading,
   Skeleton,
   Tags,
-  CodeBlock,
   Loader,
 };
